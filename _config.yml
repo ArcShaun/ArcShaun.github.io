@@ -1,6 +1,6 @@
 title: 'arcshaun.github.io'
 description: "I am starting to hate this shit"
-baseurl: "base"
+baseurl: "/base"
 url: "https://arcshaun.github.io"
 
 header_pages:
