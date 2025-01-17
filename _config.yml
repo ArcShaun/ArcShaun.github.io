@@ -2,7 +2,6 @@ title: 'arcshaun.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
 baseurl: "/home"
 url: "https://arcshaun.github.io"
-domain: arcshaun.github.io
 
 header_pages:
   - index.md
